@@ -1,3 +1,7 @@
-hello go
+package main
 
-ygtrfdecvgtbyhn
+import "fmt"
+
+func main() {
+	fmt.Println("hello go")
+}
